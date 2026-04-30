@@ -1,6 +1,6 @@
 # Olá, eu sou o Kaio! 👋
 
-💻 **Desenvolvedor Full Stack - Junior**  
+💻 **Desenvolvedor Full Stack**  
 
 Sou desenvolvedor full stack com experiência em **design UI/UX**. Trabalho principalmente com **React, Next.js, TypeScript e Node.js**, sempre focado em performance, acessibilidade e boas práticas.
 
