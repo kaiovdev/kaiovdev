@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Full Stack**  
 
-Sou desenvolvedor full stack, focado na criação de sistemas web e com experiência em **design UI/UX**. Trabalho principalmente com **React, Next.js, TypeScript e Node.js**, sempre focado em performance, acessibilidade e boas práticas.
+Sou desenvolvedor full stack, focado na criação de sistemas web e com experiência em **design UI/UX**. Trabalho principalmente com **React, Next.js, TypeScript e Node.js**, visando performance e boas práticas como TDD e Clean Code.
 
 ---
 
