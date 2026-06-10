@@ -1,8 +1,14 @@
 # Olá, eu sou o Kaio! 👋
 
-💻 **Desenvolvedor Full Stack**  
+**Desenvolvedor Full Stack**  
 
 Sou desenvolvedor full stack, focado na criação de sistemas web. Trabalho principalmente com **React, Next.js, TypeScript e Node.js**, participando de todas as etapas do processo, desde o planejamento e arquitetura até a implantação e manutenção em produção.
+
+💻 Sistemas Web no ar:
+
+- https://www.uorder.com.br/
+- https://www.techdesk.app.br/
+
 
 ---
 
