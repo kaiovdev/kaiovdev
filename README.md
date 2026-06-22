@@ -46,7 +46,4 @@ Sou desenvolvedor full stack, focado na criação de sistemas web. Trabalho prin
 
 ---
 
-<div align="center">
-  <img height="170em" src="https://raw.githubusercontent.com/kaiovdev/kaiovdev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img height="170em" src="https://raw.githubusercontent.com/kaiovdev/kaiovdev/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-</div>
+![Linguagens](https://raw.githubusercontent.com/kaiovdev/kaiovdev/main/github-metrics.svg)
