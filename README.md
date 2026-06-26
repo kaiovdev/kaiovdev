@@ -1,6 +1,6 @@
 # Olá, eu sou o Kaio! 👋
 [![Meu LinkedIn](https://img.shields.io/badge/Meu%20LinkedIn-000000?style=flat&logo=linkedin&logoColor=e7e7e7&color=e7e7e7&labelColor=00000000)](https://www.linkedin.com/in/kaioviniciuscam)
-[![kaiovdev@gmail.com](https://img.shields.io/badge/kaiovdev@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:kaiovdev@gmail.com)
+[![contatokaioviniciusdev@gmail.com](https://img.shields.io/badge/contatokaioviniciusdev@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:contatokaioviniciusdev@gmail.com)
 
 ### Desenvolvedor Full Stack 
 
